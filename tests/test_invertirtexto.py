@@ -1,5 +1,5 @@
 import unittest
-from string_utils import reverse_string, is_palindrome, count_vowels
+from invertirtexto import reverse_string, is_palindrome, count_vowels
 
 class TestStringFunctions(unittest.TestCase):
     def test_reverse_string(self):

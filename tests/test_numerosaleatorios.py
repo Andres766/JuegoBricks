@@ -1,5 +1,5 @@
 import unittest
-from python_tests import generate_random_numbers, find_max_number, find_min_number
+from numerosaleatorios import generate_random_numbers, find_max_number, find_min_number
 
 class TestRandomNumberFunctions(unittest.TestCase):
     def test_generate_random_numbers(self):
